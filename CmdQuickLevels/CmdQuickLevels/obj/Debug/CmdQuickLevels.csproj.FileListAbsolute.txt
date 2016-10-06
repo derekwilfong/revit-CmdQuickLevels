@@ -1,0 +1,5 @@
+c:\users\derekw\documents\visual studio 2015\Projects\CmdQuickLevels\CmdQuickLevels\bin\Debug\CmdQuickLevels.dll
+c:\users\derekw\documents\visual studio 2015\Projects\CmdQuickLevels\CmdQuickLevels\bin\Debug\CmdQuickLevels.pdb
+c:\users\derekw\documents\visual studio 2015\Projects\CmdQuickLevels\CmdQuickLevels\obj\Debug\CmdQuickLevels.csprojResolveAssemblyReference.cache
+c:\users\derekw\documents\visual studio 2015\Projects\CmdQuickLevels\CmdQuickLevels\obj\Debug\CmdQuickLevels.dll
+c:\users\derekw\documents\visual studio 2015\Projects\CmdQuickLevels\CmdQuickLevels\obj\Debug\CmdQuickLevels.pdb

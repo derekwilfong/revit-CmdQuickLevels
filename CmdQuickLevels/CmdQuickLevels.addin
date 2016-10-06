@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+        <AddIn Type="Command">
+                <Assembly>C:\Users\derekw\Documents\Visual Studio 2015\Projects\CreateLevelOffsetR2\CreateLevelOffsetR2\bin\Debug\CreateLevelOffsetR2.dll</Assembly>
+                <AddInId>af7ff0ce-9e8b-44b6-b0d7-b1bb3b01d634</AddInId>
+                <FullClassName>QuickLevels.CmdQuickLevels</FullClassName>
+                <Text>Quick Level</Text> 
+                <VendorId>DJW</VendorId>
+                <VendorDescription>DerekJWilfong</VendorDescription> 
+        </AddIn>
+</RevitAddIns>
